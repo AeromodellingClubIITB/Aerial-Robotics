@@ -14,4 +14,4 @@ To get better understanding of the course and better learning per week Assignmen
 
 If you have questions/Queries about course content or any doubt, feel free to ask in the whatsapp group you are added, we will surely help you out.</br>
 
-                          Keep up the enthusiasm and I hope you enjoy the course!
+                               Keep up the enthusiasm and I hope you enjoy the course!
