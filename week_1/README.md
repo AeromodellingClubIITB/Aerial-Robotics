@@ -1,4 +1,4 @@
-## Welcome to Week 2 of the Robotics:
+## Welcome to Week 1 of the Robotics:
 #### Aerial Robotics course!
 We hope you are having a good time and learning a lot already! </br>
 In this week, we will first focus on the **kinematics of quadrotors**. Then, you will learn how to derive the dynamic equations of motion for quadrotors. To build a better understanding on these notions, some essential mathematical tools are discussed in supplementary material lectures.</br>
