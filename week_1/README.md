@@ -9,5 +9,5 @@ If you have not done so already, please download, install, and learn about Matla
 The [Assignment 1](http://github.com/AeromodellingClubIITB/Aerial-Robotics/blob/main/week_1/Assignment%201.pdf) will be used for evaluation of the course, hence you are expected to complete that within the week.</br>
 If you get stuck in any of the questions, feel free to post them in the whatsapp group. As this is first graded assignment try your best to solve. You will learn a lot from this.</br>
 If you are having any difficulties with the course, please reach out to any of us, we will surely help you out.</br>
-
+Upload your submission [here](https://forms.gle/ngcNBxLek5DhcF9a8)
 ***See you in Week 2!***
