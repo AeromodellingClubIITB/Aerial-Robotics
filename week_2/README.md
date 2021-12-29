@@ -5,7 +5,7 @@ In this week, we will focus on the **Kinematics and Dynamics of Quadrotor**.Then
 
 
 
-#### Assignment 
+## Assignment 
 The [Assignment](http://github.com/AeromodellingClubIITB/Aerial-Robotics/blob/main/week_1/Assignment%201.pdf) for this week is also added in the script at end.</br>
 If you get stuck in any of the questions, feel free to post them in the whatsapp group. We encourage you to start working on the assignment soon.Submission deadline will be updated here as well as on whatsapp group.</br>
 If you are having any difficulties with the course, please reach out to any of us, we will surely help you out.</br>
