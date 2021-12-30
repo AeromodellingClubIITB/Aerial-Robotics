@@ -12,5 +12,6 @@ If you are having any difficulties with the course, please reach out to any of u
 Upload your submission [here](https://forms.gle/ngcNBxLek5DhcF9a8) </br>
 
 #### [Assignment Solution](https://github.com/AeromodellingClubIITB/Aerial-Robotics/tree/main/week_1/Week1_Solution)
-
+Have a look at solutions 
+Incase any queries, if you don't understand anything,feel free to ask in whatsapp group </br>
 ***See you in Week 2!***
