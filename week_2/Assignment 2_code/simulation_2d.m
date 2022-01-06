@@ -36,7 +36,7 @@ quadcolors = lines(1);
 set(gcf,'Renderer','OpenGL')
 
 %% *********************** INITIAL CONDITIONS ***********************
-t_total  = 5;             % Total simulated time
+t_total  = 10;             % Total simulated time
 tstep    = 0.01;          % this determines the time step at which the solution is given
 cstep    = 0.05;          % image capture time interval
 max_iter = t_total/cstep; % max iteration
