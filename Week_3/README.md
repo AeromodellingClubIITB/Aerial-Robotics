@@ -6,7 +6,7 @@ We have developed planar and **three-dimensional dynamic models** of the quadrot
 In this last week of the course, some more advanced material on how to enable quadrotors to perform more **agile maneuvers** and to operate **autonomously** in teams is also added as supplymentary material if you want to explore more,you can continue.</br>
 
 ## Assignment 
-[Assignment](https://github.com/Anjali-Antil/aerial/tree/main/Week_3/Assignment) for this week is also uploaded ,firstly understand the content completely then move on to the assignment.</br>
+[Assignment](https://github.com/AeromodellingClubIITB/Aerial-Robotics/tree/main/Week_3/Assignment) for this week is also uploaded ,firstly understand the content completely then move on to the assignment.</br>
 Note that this last programming assignment on quadrotor control in three dimensions uses material from the previous weeks. It is strongly recommended to start the assignment as soon as possible.</br>
 You will be updated in WA group when is the assignment deadline for this week.
 
